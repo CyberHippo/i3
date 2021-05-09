@@ -149,6 +149,7 @@ bindsym $super+r mode "resize"
 
 # panel
 bar {
+        tray_output primary
         position top
         colors {
         background #2f343f
