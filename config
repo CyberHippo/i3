@@ -134,7 +134,7 @@ mode "(l)ock (s)leep (h)ybernate (r)eboot (p)oweroff (e)xit-i3" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
-bindsym $mod+Shift+e mode "(l)ock (s)leep (h)ybernate (r)eboot (p)oweroff (e)xit-i3"
+bindsym $super+Shift+e mode "(l)ock (s)leep (h)ybernate (r)eboot (p)oweroff (e)xit-i3"
 
 
 # resize window (you can also use the mouse for that)
